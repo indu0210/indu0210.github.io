@@ -1,0 +1,6 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- Shield shape for security -->
+    <path d="M32 4L12 14V32C12 47 24 58 32 60C40 58 52 47 52 32V14L32 4Z" fill="#343F52" stroke="#FEC260" stroke-width="3"/>
+    <!-- Checkmark for quality -->
+    <path d="M22 33L28 39L42 25" stroke="#FEC260" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

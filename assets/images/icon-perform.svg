@@ -1,0 +1,18 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- Gauge semicircle -->
+    <path d="M16 48a16 16 0 1 1 32 0" stroke="#343F52" stroke-width="4" fill="none"/>
+    <!-- Gauge needle -->
+    <line x1="32" y1="48" x2="45" y2="31" stroke="#FEC260" stroke-width="3" stroke-linecap="round"/>
+    <!-- Central gear for optimization -->
+    <g>
+        <circle cx="32" cy="48" r="6" fill="#FEC260" stroke="#343F52" stroke-width="2"/>
+        <g>
+            <rect x="31" y="40" width="2" height="4" rx="1" fill="#343F52"/>
+            <rect x="31" y="52" width="2" height="4" rx="1" fill="#343F52"/>
+            <rect x="24.93" y="43.07" width="2" height="4" rx="1" transform="rotate(-45 24.93 43.07)" fill="#343F52"/>
+            <rect x="45.07" y="43.07" width="2" height="4" rx="1" transform="rotate(45 45.07 43.07)" fill="#343F52"/>
+            <rect x="24.93" y="52.93" width="2" height="4" rx="1" transform="rotate(45 24.93 52.93)" fill="#343F52"/>
+            <rect x="45.07" y="52.93" width="2" height="4" rx="1" transform="rotate(-45 45.07 52.93)" fill="#343F52"/>
+        </g>
+    </g>
+</svg>

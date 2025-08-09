@@ -1,0 +1,11 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- Circular arrows symbolizing continuous cycle -->
+    <path d="M20 32a12 12 0 0 1 24 0" stroke="#343F52" stroke-width="4" stroke-linecap="round" />
+    <path d="M44 32l6 4m-6 0l6-4" stroke="#343F52" stroke-width="4" stroke-linecap="round" />
+    <path d="M44 32a12 12 0 0 1-24 0" stroke="#343F52" stroke-width="4" stroke-linecap="round" />
+    <path d="M20 32l-6-4m6 0l-6 4" stroke="#343F52" stroke-width="4" stroke-linecap="round" />
+
+    <!-- Gear for automation -->
+    <circle cx="32" cy="32" r="10" stroke="#FEC260" stroke-width="3" fill="none"/>
+    <path d="M32 22v4M32 40v4M42 32h-4M22 32h-4M38 26l-3 3M26 38l-3 3M38 38l-3-3M26 26l-3-3" stroke="#FEC260" stroke-width="2" stroke-linecap="round"/>
+</svg>
